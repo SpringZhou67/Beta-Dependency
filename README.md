@@ -1,1 +1,2 @@
-# Beta-Dependency
+### Beta-Dependency
+This study examines the impact of return frequency on the accuracy of beta and its implications for the explanation power of Capital Asset Pricing Model (CAPM). Using daily and minute-level return data, we calculate CAPM alphas for portfolios sorted by the differences between betas estimated at these frequencies. Our results reveal that daily alphas are generally small and statistically insignificant across all portfolios, while minute-level alphas exhibit significant positive alphas and greater variability. It suggests that beta accuracy diminishes at higher return frequencies, potentially explained by market inefficiencies, trading noises, and investors’ behaviors in the short term. 
